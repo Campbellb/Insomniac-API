@@ -8,7 +8,7 @@ http://insomniac.cleverapps.io/api/beta/galleries?key=your-api-key
 
 ### To Register for an API Key:
 
-1. Be registered for the EDC Hackathon in SF, LA, or Las Vegas.
+1. Be registered for the EDC Tri-Hackathon in SF, LA, or Las Vegas.
 2. Email boris.polania@insomniac.com with your EDC Hackathon Team Name.
 
 
