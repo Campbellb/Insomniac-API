@@ -6,6 +6,12 @@ All calls to Insomniac's API must be done to the following URL http://insomniac.
 
 http://insomniac.cleverapps.io/api/beta/galleries?key=your-api-key
 
+### To Register for an API Key:
+
+1. Be registered for the EDC Hackathon in SF, LA, or Las Vegas.
+2. Email boris.polania@insomniac.com with your EDC Hackathon Team Name.
+
+
 ### Galleries
 
 The gallery object contains the following information:
