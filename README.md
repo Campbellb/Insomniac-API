@@ -32,10 +32,6 @@ http://insomniac.cleverapps.io/api/beta/galleries?key=your-api-key
 
 The response is a 200 JSON object with an array of galleries.
 
-<sub>[//]: <> TODO: add curl request structure</sub></br>
-<sub>[//]: <> TODO: add full fields description</sub></br>
-<sub>[//]: <> TODO: add full endpoint description</sub>
-
 Response Example:
 
 ```
@@ -68,10 +64,6 @@ http://insomniac.cleverapps.io/api/beta/galleries/{gallery_id}?key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of galleries matching the specified id.
-
-<sub>[//]: <> TODO: add curl request structure</sub></br>
-<sub>[//]: <> TODO: add full fields description</sub></br>
-<sub>[//]: <> TODO: add full endpoint description</sub>
 
 Response Example:
 
@@ -143,10 +135,6 @@ http://insomniac.cleverapps.io/api/beta/events?key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of events.
-
-<sub>[//]: <> TODO: add curl request structure</sub></br>
-<sub>[//]: <> TODO: add full fields description</sub></br>
-<sub>[//]: <> TODO: add full endpoint description</sub>
 
 Response Example:
 
@@ -414,10 +402,6 @@ http://insomniac.cleverapps.io/api/beta/performers?key=your-api-key
 
 The response is a 200 JSON object with an array of performers.
 
-<sub>[//]: <> TODO: add curl request structure</sub></br>
-<sub>[//]: <> TODO: add full fields description</sub></br>
-<sub>[//]: <> TODO: add full endpoint description</sub>
-
 Response Example:
 
 ```
@@ -501,10 +485,6 @@ http://insomniac.cleverapps.io/api/beta/venues?key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of venues.
-
-<sub>[//]: <> TODO: add curl request structure</sub></br>
-<sub>[//]: <> TODO: add full fields description</sub></br>
-<sub>[//]: <> TODO: add full endpoint description</sub>
 
 Response Example:
 
