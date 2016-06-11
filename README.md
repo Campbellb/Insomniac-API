@@ -149,7 +149,7 @@ Response Example:
 	            "name": "DJ Boris",
 	            "short_name": "DJ B",
 	            "url": "https://www.djboris.com",
-	            "image": "kjkYjkhk",
+	            "image": 'asdfqef'
 	            "primary": true,
 	            "id": 1234,
 	            "score": 1524,
@@ -160,7 +160,7 @@ Response Example:
 	            "name": "Los Callate Agustin",
 	            "short_name": "Los Callate",
 	            "url": "https://www.loscallate.com",
-	            "image": null,
+	            "image": 'asdfqef'
 	            "id": 1235,
 	            "score": 1789,
 	            "type": "band",
@@ -182,6 +182,7 @@ Response Example:
 	        "address": null,
 	        "id": 111
 	    },
+			"galleries": ...
 	    "short_title": "EDC NYC",
 	    "datetime_utc": "2016-04-10T00:00:00",
 	    "type": "concert"
@@ -212,7 +213,7 @@ Response Example:
 	            "name": "DJ Boris",
 	            "short_name": "DJ B",
 	            "url": "https://www.djboris.com",
-	            "image": "kjkYjkhk",
+	            "image": 'asdfqef'
 	            "primary": true,
 	            "id": 1234,
 	            "score": 1524,
@@ -223,7 +224,7 @@ Response Example:
 	            "name": "Los Callate Agustin",
 	            "short_name": "Los Callate",
 	            "url": "https://www.loscallate.com",
-	            "image": null,
+	            "image": 'asdfqef'
 	            "id": 1235,
 	            "score": 1789,
 	            "type": "band",
@@ -245,6 +246,7 @@ Response Example:
 	        "address": null,
 	        "id": 111
 	    },
+			"galleries":...
 	    "short_title": "EDC NYC",
 	    "datetime_utc": "2016-04-10T00:00:00",
 	    "type": "concert"
@@ -276,7 +278,7 @@ Response Example:
 	            "name": "DJ Boris",
 	            "short_name": "DJ B",
 	            "url": "https://www.djboris.com",
-	            "image": "kjkYjkhk",
+	            "image": 'asdfqef',
 	            "primary": true,
 	            "id": 1234,
 	            "score": 1524,
@@ -287,7 +289,7 @@ Response Example:
 	            "name": "Los Callate Agustin",
 	            "short_name": "Los Callate",
 	            "url": "https://www.loscallate.com",
-	            "image": null,
+	            "image": 'asdfqef',
 	            "id": 1235,
 	            "score": 1789,
 	            "type": "band",
@@ -309,6 +311,7 @@ Response Example:
 	        "address": null,
 	        "id": 111
 	    },
+			"galleries": ...
 	    "short_title": "EDC NYC",
 	    "datetime_utc": "2016-04-10T00:00:00",
 	    "type": "concert"
@@ -340,7 +343,7 @@ Response Example:
 	            "name": "DJ Boris",
 	            "short_name": "DJ B",
 	            "url": "https://www.djboris.com",
-	            "image": "kjkYjkhk",
+	            "image": 'asdfqef',
 	            "primary": true,
 	            "id": 1234,
 	            "score": 1524,
@@ -351,7 +354,7 @@ Response Example:
 	            "name": "Los Callate Agustin",
 	            "short_name": "Los Callate",
 	            "url": "https://www.loscallate.com",
-	            "image": null,
+	            "image": 'asdfqef',
 	            "id": 1235,
 	            "score": 1789,
 	            "type": "band",
@@ -373,6 +376,7 @@ Response Example:
 	        "address": null,
 	        "id": 111
 	    },
+			"galleries" : ...
 	    "short_title": "EDC NYC",
 	    "datetime_utc": "2016-04-10T00:00:00",
 	    "type": "concert"
@@ -411,7 +415,7 @@ Response Example:
 	            "name": "DJ Boris",
 	            "short_name": "DJ B",
 	            "url": "https://www.djboris.com",
-	            "image": "kjkYjkhk",
+	            "image": 'asdfqef',
 	            "primary": true,
 	            "id": 1234,
 	            "score": 1524,
@@ -422,7 +426,7 @@ Response Example:
 	            "name": "Los Callate Agustin",
 	            "short_name": "Los Callate",
 	            "url": "https://www.loscallate.com",
-	            "image": null,
+	            "image": 'asdfqef',
 	            "id": 1235,
 	            "score": 1789,
 	            "type": "band",
