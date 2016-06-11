@@ -2,9 +2,9 @@
 
 ## Welcome to Insomniac's api
 
-All calls to Insomniac's API must be done to the following URL http://insomniac.xxxxx.xx/, so for example if you want to call the galleries endpoint it would be like this:
+All calls to Insomniac's API must be done to the following URL http://insomniac.cleverapps.io/, so for example if you want to call the galleries endpoint it would be like this:
 
-http://insomniac.xxxxx.xx/api/beta/galleries?key=your-api-key
+http://insomniac.cleverapps.io/api/beta/galleries?key=your-api-key
 
 ### To Register for an API Key:
 
@@ -27,7 +27,7 @@ The gallery object contains the following information:
 Returns all available galleries. Send a GET request to the galleries endpoint /api/beta/galleries.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/galleries?key=your-api-key
+http://insomniac.cleverapps.io/api/beta/galleries?key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of galleries.
@@ -64,7 +64,7 @@ Response Example:
 To do this, send a GET request to /api/beta/gallery/{gallery_id} endpoint.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/galleries/{gallery_id}?key=your-api-key
+http://insomniac.cleverapps.io/api/beta/galleries/{gallery_id}?key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of galleries matching the specified id.
@@ -139,7 +139,7 @@ The event object contains the following information:
 Returns all available events. Send a GET request to the galleries endpoint /api/beta/events.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/events?key=your-api-key
+http://insomniac.cleverapps.io/api/beta/events?key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of events.
@@ -206,7 +206,7 @@ Response Example:
 To do this, send a GET request to /api/beta/events/{event_id} endpoint.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/events/{event_id}?key=your-api-key
+http://insomniac.cleverapps.io/api/beta/events/{event_id}?key=your-api-key
 ```
 
 The response is a 200 JSON object with the event matching the specified id.
@@ -270,7 +270,7 @@ Response Example:
 The performers argument is used to scope the result set to specific performers.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/events?performer=performer_name&key=your-api-key
+http://insomniac.cleverapps.io/api/beta/events?performer=performer_name&key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of events matching the specified performer.
@@ -334,7 +334,7 @@ Response Example:
 The venue argument is used to scope the result set to specific a specific venue.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/events?venue=venue_name&key=your-api-key
+http://insomniac.cleverapps.io/api/beta/events?venue=venue_name&key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of events matching the specified venue.
@@ -409,7 +409,7 @@ The performer object contains the following information:
 Returns all available performers. Send a GET request to the performers endpoint /api/beta/performers.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/performers?key=your-api-key
+http://insomniac.cleverapps.io/api/beta/performers?key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of performers.
@@ -453,7 +453,7 @@ Response Example:
 To do this, send a GET request to /api/beta/performers/{performer_id} endpoint.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/events/{performer_id}?key=your-api-key
+http://insomniac.cleverapps.io/api/beta/events/{performer_id}?key=your-api-key
 ```
 
 The response is a 200 JSON object with the performer matching the specified id.
@@ -497,7 +497,7 @@ The venue object contains the following information:
 Returns all available venues. Send a GET request to the venues endpoint /api/beta/venues.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/venues?key=your-api-key
+http://insomniac.cleverapps.io/api/beta/venues?key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of venues.
@@ -550,7 +550,7 @@ Response Example:
 To do this, send a GET venue to /api/beta/venues/{venue_id} endpoint.
 
 ```
-http://insomniac.xxxxx.xx/api/beta/venues/{venue_id}?key=your-api-key
+http://insomniac.cleverapps.io/api/beta/venues/{venue_id}?key=your-api-key
 ```
 
 The response is a 200 JSON object with the venue matching the specified id.
