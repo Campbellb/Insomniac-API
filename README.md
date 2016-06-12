@@ -260,7 +260,7 @@ Response Example:
 The performers argument is used to scope the result set to specific performers.
 
 ```
-http://insomniac.cleverapps.io/api/beta/events?performer=performer_name&key=your-api-key
+http://insomniac.cleverapps.io/api/beta/events?performer=performer_id&key=your-api-key
 ```
 
 The response is a 200 JSON object with an array of events matching the specified performer.
